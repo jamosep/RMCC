@@ -1,0 +1,6 @@
+com\rmcc\models\Usuario.class
+com\rmcc\rmccproject\resources\JakartaEE8Resource.class
+com\rmcc\utils\DBConnection.class
+com\rmcc\controllers\RegistroUsuarioServlet.class
+com\rmcc\controllers\LoginServlet.class
+com\rmcc\rmccproject\JakartaRestConfiguration.class
